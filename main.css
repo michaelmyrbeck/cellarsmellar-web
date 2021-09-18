@@ -1,0 +1,43 @@
+.header {
+    padding: 5px;
+    text-align: center;
+    background: #faf602;
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+  }
+  body {
+    font-family: monospace;
+}
+
+ul {
+    font-family: helvetica;
+}
+.light-theme {
+    color: rgb(255, 0, 0);
+    background: #faf602;
+  }
+  .topnav {
+    background-color: #faf602;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    padding: 5px;
+    width: 25%;
+    text-decoration: none;
+    font-size: 30px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: rgb(162, 0, 255);
+    color: rgb(250, 4, 250);
+  }
+  
+
+ 
+  
